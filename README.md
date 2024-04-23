@@ -13,4 +13,4 @@ Testcase and Test Plan for an ecommerce application
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| Project 1    | Tested a web application for functionality and usability. | Test Plan, Testcases |
+| Ecommerce App    | Tested a web application for functionality and usability. | Test Plan, Testcases |
